@@ -1,4 +1,4 @@
-<a href="https://public.tableau.com/app/profile/muskan.kashyap/viz/BellabeatDashboardGoogleDataAnalyticsCapstone/PhysicalActivity"> Access My Dashboard Here! </a>
+<a href="https://public.tableau.com/app/profile/muskan.kashyap/viz/BellabeatDashboardGoogleDataAnalyticsCapstone/PhysicalActivity"> [Access My Dashboard from Here!] </a>
 
 # PYTHON
 # Bellabeat Fitness Tracker Data Analysis
